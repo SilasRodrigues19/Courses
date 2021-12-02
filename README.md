@@ -10,7 +10,7 @@
 <samp>
 <p align="center">
   <a href="https://github.com//SilasRodrigues19/Courses">
-    <img src="https://w7.pngwing.com/pngs/616/94/png-transparent-black-academic-hat-illustration-graduation-ceremony-hat-cap-academic-dress-dr-graduation-cap-pull-material-free-angle-free-logo-design-template-university.png" alt="Logo" width="80" height="80">
+    <img src="images/education.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Free Programming Courses on Youtube</h3>
@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Preview][product-screenshot]](https://github.com//SilasRodrigues19/Courses/blob/main/public/preview.png?raw=true)
+[![Preview][product-screenshot]](images/screenshot.png)
 
 This list was made with some channels that I follow and watch on Youtube, it contains some channels with few subs and maybe little known.
 
@@ -91,18 +91,18 @@ Project Link: [https://github.com//SilasRodrigues19/Courses](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors//SilasRodrigues19/Courses.svg?style=for-the-badge
-[contributors-url]: https://github.com//SilasRodrigues19/Courses/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks//SilasRodrigues19/Courses.svg?style=for-the-badge
-[forks-url]: https://github.com//SilasRodrigues19/Courses/network/members
-[stars-shield]: https://img.shields.io/github/stars//SilasRodrigues19/Courses.svg?style=for-the-badge
-[stars-url]: https://github.com//SilasRodrigues19/Courses/stargazers
-[issues-shield]: https://img.shields.io/github/issues//SilasRodrigues19/Courses.svg?style=for-the-badge
-[issues-url]: https://github.com//SilasRodrigues19/Courses/issues
-[license-shield]: https://img.shields.io/github/license//SilasRodrigues19/Courses.svg?style=for-the-badge
-[license-url]: https://github.com//SilasRodrigues19/Courses/blob/master/LICENSE
-[product-screenshot]: https://github.com//SilasRodrigues19/Courses/blob/main/public/preview.png?raw=true
-[license-url]: https://github.com//SilasRodrigues19/Courses/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/SilasRodrigues19/Courses.svg?style=for-the-badge
+[contributors-url]: https://github.com/SilasRodrigues19/Courses/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SilasRodrigues19/Courses.svg?style=for-the-badge
+[forks-url]: https://github.com/SilasRodrigues19/Courses/network/members
+[stars-shield]: https://img.shields.io/github/stars/SilasRodrigues19/Courses.svg?style=for-the-badge
+[stars-url]: https://github.com/SilasRodrigues19/Courses/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SilasRodrigues19/Courses.svg?style=for-the-badge
+[issues-url]: https://github.com/SilasRodrigues19/Courses/issues
+[license-shield]: https://img.shields.io/github/license/SilasRodrigues19/Courses.svg?style=for-the-badge
+[license-url]: https://github.com/SilasRodrigues19/Courses/blob/master/LICENSE
+[product-screenshot]: https://github.com/SilasRodrigues19/Courses/blob/main/public/preview.png?raw=true
+[license-url]: https://github.com/SilasRodrigues19/Courses/blob/master/LICENSE
 
 
 <br><hr>
