@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Preview][product-screenshot]](https://github.com/SilasRodrigues19/Courses/blob/main/images/screenshot.png?raw=true)
+[![Preview][product-screenshot]](images/screenshot.png)
 
 This list was made with some channels that I follow and watch on Youtube, it contains some channels with few subs and maybe little known.
 
@@ -101,7 +101,7 @@ Project Link: [https://github.com//SilasRodrigues19/Courses](https://github.com/
 [issues-url]: https://github.com/SilasRodrigues19/Courses/issues
 [license-shield]: https://img.shields.io/github/license/SilasRodrigues19/Courses.svg?style=for-the-badge
 [license-url]: https://github.com/SilasRodrigues19/Courses/blob/master/LICENSE
-[product-screenshot]: https://github.com/SilasRodrigues19/Courses/blob/main/public/preview.png?raw=true
+[product-screenshot]: images/screenshot.png
 [license-url]: https://github.com/SilasRodrigues19/Courses/blob/master/LICENSE
 
 
