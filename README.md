@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Preview][product-screenshot]](images/screenshot.png)
+[![Preview][product-screenshot]](https://github.com/SilasRodrigues19/Courses/blob/main/images/screenshot.png?raw=true)
 
 This list was made with some channels that I follow and watch on Youtube, it contains some channels with few subs and maybe little known.
 
