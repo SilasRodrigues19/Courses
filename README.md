@@ -9,7 +9,7 @@
 <br />
 <samp>
 <p align="center">
-  <a href="https://github.com//SilasRodrigues19/Courses">
+  <a href="https://github.com/SilasRodrigues19/Courses/blob/main/CURSOS.md">
     <img src="images/education.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,7 +20,7 @@
     <br />
     <br />
     <a href="https://github.com/SilasRodrigues19/Courses/blob/main/CURSOS.md">Demo</a>
-    <a href="https://github.com//SilasRodrigues19/Courses/issues">Report</a>
+    <a href="https://github.com//SilasRodrigues19/Courses/issues">Report Error</a>
   </p>
 </p>
 
@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Preview][product-screenshot]](images/screenshot.png)
+[![Preview][product-screenshot]](https://github.com/SilasRodrigues19/Courses/blob/main/CURSOS.md)
 
 This list was made with some channels that I follow and watch on Youtube, it contains some channels with few subs and maybe little known.
 
